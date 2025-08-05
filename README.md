@@ -43,7 +43,6 @@ Custom-built responsive **Shopify theme** with:
 ## 📫 Contact Me
 
 - 📧 Email: [1omarfaruq@gmail.com](mailto:1omarfaruq@gmail.com)
-- 🌐 Portfolio: [bpo-mss.com](https://bpo-mss.com)
 - 💼 LinkedIn: [linkedin.com/in/md-omar-faruq](https://www.linkedin.com/in/md-omar-faruq-2b1b02185)
 - 🐙 GitHub: [github.com/1omarfaruq](https://github.com/1omarfaruq)
 
