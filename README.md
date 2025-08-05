@@ -1,5 +1,6 @@
-👋 Hi, I'm Omar Faruq
-💻 Full-Stack Web Developer | Laravel & Shopify Expert | Passionate Problem Solver
+#👋 Hi, I'm Omar Faruq
+##💻 Full-Stack Web Developer | Laravel & Shopify Expert | Passionate Problem Solver
+
 I’m a results-driven web developer with a strong foundation in Laravel and Shopify theme development. I specialize in building scalable, secure, and user-friendly web applications using modern tech stacks including Laravel, PHP, Tailwind CSS, and Shopify Liquid.
 
 With real-world experience developing enterprise systems like clinic and ISP management platforms, I bring a mix of business understanding and technical skills to craft clean, maintainable code and intuitive UI/UX.
